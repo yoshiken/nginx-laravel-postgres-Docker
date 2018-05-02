@@ -1,0 +1,8 @@
+DB_CONNECTION=DB_Type
+DB_HOST=Docker_DB_Name
+DB_PORT=Docker_DB_Port
+DB_DATABASE=Database_Name
+DB_USERNAME=Username
+DB_PASSWORD=Password
+POSTGRES_USER=Username
+POSTGRES_PASSWORD=Password
